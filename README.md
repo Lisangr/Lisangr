@@ -3,7 +3,7 @@
 **DevOps / Infrastructure Engineer & AI Automation.** Строю **надёжную инфраструктуру**, **прозрачный CI/CD** и **автоматизацию процессов без лишних прослоек**.
 
 [![Telegram](https://img.shields.io/badge/Telegram-Написать-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bm13s1)
-[![Email](https://img.shields.io/badge/Email-Илья-Ефимов-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:iliyayefimov@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Илья-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:iliyayefimov@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Lisangr&style=for-the-badge&color=0e75b6)](https://github.com/Lisangr)
 
 ---
