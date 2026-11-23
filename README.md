@@ -47,7 +47,7 @@
 
 ### Избранные проекты
 
-* [**tg-gchat-support-gateway**](https://github.com/Lisangr/tg-gchat-support-gateway) — двусторонний шлюз Telegram ↔ Google Chat (Polling + GCP Pub/Sub Pull, Zero-Ingress, Anti-Echo, SQLite, hardened Docker, CI/CD).
+* [**tg-gchat-support-gateway**](https://github.com/Lisangr/tg-gchat-support-gateway) — Outbound-only шлюз Telegram ↔ Google Chat (Zero-Ingress, GCP Pub/Sub Pull, Terraform IaC, Prometheus-метрики, JSON-логи, Trivy/Hadolint CI и GHCR CD).
 * [**github-ai-pr-reviewer**](https://github.com/Lisangr/github-ai-pr-reviewer) — автоматический SAST-ревьюер Pull Requests на базе GitHub Actions и Gemini AI по Markdown-базе правил безопасности.
 * [**Multi-Tenant-agency-gitops**](https://github.com/Lisangr/Multi-Tenant-agency-gitops) — GitOps-инфраструктура (Caddy, n8n, pgvector, Xray Reality-мосты, шифрованные S3-бэкапы).
 * [**python-devops-cicd-template**](https://github.com/Lisangr/python-devops-cicd-template) & [**hardened-nginx-python-template**](https://github.com/Lisangr/hardened-nginx-python-template) — эталонные шаблоны контейнеризации, smoke-тестов и CI/CD.
