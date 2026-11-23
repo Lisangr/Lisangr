@@ -52,4 +52,4 @@
 * [**Multi-Tenant-agency-gitops**](https://github.com/Lisangr/Multi-Tenant-agency-gitops) — GitOps-инфраструктура (Caddy, n8n, pgvector, Xray Reality-мосты, шифрованные S3-бэкапы).
 * [**python-devops-cicd-template**](https://github.com/Lisangr/python-devops-cicd-template) & [**hardened-nginx-python-template**](https://github.com/Lisangr/hardened-nginx-python-template) — эталонные шаблоны контейнеризации, smoke-тестов и CI/CD.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisangr&layout=compact&theme=dark)](https://github.com/Lisangr)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lisangr&layout=compact&theme=dark&hide=c%23)](https://github.com/Lisangr)
